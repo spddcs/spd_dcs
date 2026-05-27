@@ -1,0 +1,35 @@
+Python
+
+pycache/
+*.py[cod]
+*.so
+.Python
+Virtual environments
+
+env/
+venv/
+ENV/
+IDE
+
+.vscode/
+.idea/
+*.swp
+Logs
+
+*.log
+logs/
+Database backups
+
+.sql
+backup_.sql
+Local configuration
+
+config/local_*.conf
+Temporary files
+
+*.tmp
+*.bak
+OS files
+
+.DS_Store
+Thumbs.db
