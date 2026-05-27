@@ -1,0 +1,11 @@
+{
+    "name": "BBC_MCP",
+    "enabled": true,
+    "ip_address": "localhost",
+    "port": 10000,
+    "device_server": "ps_device_server",
+    "parameters": {
+        "update_interval": 1000,
+        "log_level": "INFO"
+    }
+}
