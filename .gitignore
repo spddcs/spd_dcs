@@ -54,3 +54,10 @@ htmlcov/
 
 # Documentation build
 docs/_build/
+
+# GUI specific
+gui/*/__pycache__/
+gui/*/*/__pycache__/
+gui/*/*/*/__pycache__/
+gui/*.pyc
+gui/*/*.pyc
