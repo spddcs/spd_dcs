@@ -1,35 +1,56 @@
-Python
-
-pycache/
+# Python
+__pycache__/
 *.py[cod]
+*.pyc
+*.pyo
 *.so
 .Python
-Virtual environments
+*.egg-info/
+*.egg
 
+# Virtual environments
 env/
 venv/
 ENV/
-IDE
+env.bak/
+venv.bak/
 
+# IDE
 .vscode/
 .idea/
 *.swp
-Logs
+*.swo
+*~
 
+# Logs
 *.log
 logs/
-Database backups
+*.log.*
 
-.sql
-backup_.sql
-Local configuration
+# Database backups
+*.sql
+backup_*.sql
+*.db
 
-config/local_*.conf
-Temporary files
-
-*.tmp
-*.bak
-OS files
-
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# Local configuration
+config/local_*.conf
+*.local
+
+# Test coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Documentation build
+docs/_build/
