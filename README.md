@@ -1,4 +1,4 @@
-# SPD DCS - Straw Tube Tracker Detector Control System
+# SPD DCS - SPD Detector Control System
 
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/)
