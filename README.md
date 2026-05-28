@@ -6,7 +6,7 @@
 [![PyQt5](https://img.shields.io/badge/PyQt5-GUI-brightgreen.svg)](https://riverbankcomputing.com/software/pyqt/)
 
 ## Overview
-SPD DCS is a complete control system for the Straw Tube Tracker detector at CERN, integrating:
+SPD DCS is a detector complete control system, integrating:
 - CAEN SMARTHV high voltage power supplies via OPC UA
 - TANGO controls framework for distributed control
 - PyQt5-based GUI for monitoring and control
@@ -154,14 +154,14 @@ License
 Proprietary - SPD Collaboration
 Contact
 
-    SPD DCS Team - CERN
+    SPD DCS Team - JINR
 
-    Email: spd-dcs@cern.ch
+    Email: Sergey.Shkarovskiy@jinr.ru
 
     Issue Tracker: https://github.com/spddcs/spd_dcs/issues
 Acknowledgments
 
-    CERN BE/CO group for TANGO framework
+    JINR LHEP SPD DCS group for TANGO framework
 
     CAEN for SMARTHV power supplies
 
