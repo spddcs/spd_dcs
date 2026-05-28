@@ -21,7 +21,7 @@ SPD DCS is a detector complete control system, integrating:
 - **TANGO device server** with read/write capabilities
 
 ### GUI
-- **Multi-detector support**: SPD, BBC, Magnet, MicroMegas, RangeSystem, StrawTracker, ZeroDegreeCalorimeter
+- **Multi-detector support**: SPD, BBC, BBC_MCP, Magnet, MicroMegas, RangeSystem, RangeSystemEndCaap, StrawTracker, StrawTrackerEndCap, ZeroDegreeCalorimeter
 - **Complete StrawTracker control** with all 13 parameters per channel
 - **Navigation tree** for easy access
 - **Real-time monitoring** with auto-refresh
